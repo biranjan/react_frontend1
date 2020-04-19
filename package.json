@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@types/react": "^16.9.34",
     "body-parser": "^1.18.3",
     "clone": "^2.1.1",
     "cors": "^2.8.3",
